@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/eugenelivet/RocketData/raw/master/hardware/rocketdata-1.0.0.tar.gz",
           "archiveFileName": "rocketdata-1.0.0.tar.gz",
-          "checksum": "SHA-256:36e00f23a5a2956d8d4ede26d3e7145b5b91c55ca70aded7469f12095bc4abf5",
+          "checksum": "SHA-256:74b422129bf6d47b5d6190c1826772f40dc1211f5dc4b7e41bdeea2bcc89f0ce",
           "size": "4173824",
           "boards": [
             {"name": "RocketData"}
