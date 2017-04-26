@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "RocketData",
+      "maintainer": "RocketData",
+      "websiteURL": "https://github.com/regis44/RocketData",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "RocketData",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/regis44/RocketData/raw/master/hardware/rocketdata-1.0.0.tar.gz",
+          "archiveFileName": "rocketdata-1.0.0.tar.gz",
+          "checksum": "SHA-256:d862bcdcf18f8b710067ea433d6f1d21159bf4fb9884700f6045353cb2de9454",
+          "size": "4038630",
+          "boards": [
+            {"name": "RocketData"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+       ],
+      "tools": []
+    }
+  ]
+}
